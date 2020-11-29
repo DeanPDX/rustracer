@@ -1,1 +1,2 @@
-# rustracer
+# RusTracer
+This is a Rust learning project; a simple ray tracer based on [Ray Tracing in One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html) by [Peter Shirley](https://github.com/petershirley).
